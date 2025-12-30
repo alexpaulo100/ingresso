@@ -1,7 +1,10 @@
-# 🎟️ Projeto Ingresso - Cinema
+## 🎟️ Projeto Ingresso - Cinema
 
 Este é um projeto com objetivo de estudo, desenvolvido em Java para gerenciar tipos de ingressos de cinema, com cálculo do valor real baseado em regras de meia entrada e ingresso família, além de suporte para exibição dublada ou legendada.
+---
+---
 [![Java CI](https://github.com/alexpaulo100/ingresso/actions/workflows/maven.yml/badge.svg)](https://github.com/alexpaulo100/ingresso/actions/workflows/maven.yml)
+---
 ---
 
 ## 🚀 Tecnologias Utilizadas
